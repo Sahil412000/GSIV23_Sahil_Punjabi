@@ -20,7 +20,7 @@
 
 ### `Environment variables`
 
-REACT_APP_MOVIES_API_URL = "https://api.themoviedb.org/3"
-REACT_APP_MOVIES_API_KEY = "YOUR API KEY HERE"
-REACT_APP_MOVIES_ACCESS_TOKEN = "YOUR ACCESS TOKEN HERE"
-REACT_APP_MOVIES_IMAGE_PATH = "https://image.tmdb.org/t/p/w500"
+1. REACT_APP_MOVIES_API_URL = "https://api.themoviedb.org/3"
+2. REACT_APP_MOVIES_API_KEY = "YOUR API KEY HERE"
+3. REACT_APP_MOVIES_ACCESS_TOKEN = "YOUR ACCESS TOKEN HERE"
+4. REACT_APP_MOVIES_IMAGE_PATH = "https://image.tmdb.org/t/p/w500"
